@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+  praveen
+  welcome to andhra
+  sai
+  kalayan
+  devops
+  java
+=======
+hello world
+hai
+best
+old
+bus
+like
+>>>>>>> master
